@@ -5,16 +5,16 @@ SC.initialize({
 $(document).ready(function() {
 
     SC.stream('/tracks/62899410',function(sound){
-      $('#start').click(function(e) {
+      $('#start1').click(function(e) {
            e.preventDefault();
            sound.start();
          });
 
-      $('#stop').click(function(e) {
+      $('#stop1').click(function(e) {
            e.preventDefault();
            sound.stop();
          });
 
       });
-      
+
  });
