@@ -13,17 +13,6 @@ $(document).ready(function()
      $('#stop').click(function(e) {
                     e.preventDefault();
                     sound.stop();
-
-SC.stream('/tracks/62899410',function(sound){
-   $('#start1').click(function(e) {
-           e.preventDefault();
-           sound.start();
-         });
-
-     $('#stop1').click(function(e) {
-                    e.preventDefault();
-                    sound.stop();
-
                   });
 });
  });
