@@ -1,0 +1,25 @@
+.row{
+  list-style-type: none;
+display: inline-flex;
+width: 80%;
+position: relative;
+padding-left: 20%;
+text-align: center;
+
+
+}
+
+.row img{
+  width: 250px;
+height: 350px;
+border-radius: 16px;
+}
+
+.row button{
+
+}
+
+.responsive{
+width:100%;
+height:auto;
+}
