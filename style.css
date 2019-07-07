@@ -1,17 +1,18 @@
 .head{
   margin-top: -1%;
   width: 100%;
-  height: 100px;;
+  height: 50px;;
   background-color: black;
 }
 
 
 .div2{
-  margin: 5%;
+  margin: 2%;
+  position: relative;
 }
 .div2 img{
-  width: 250px;
-  height: 350px;
+  width: 200px;
+  height: 300px;
   border-radius: 8px;
 }
 img .responsive{
@@ -20,8 +21,13 @@ img .responsive{
 }
 
 .div1{
-  position: absolute;
+  width: 80%;
+  height: auto;
+  margin: 50px;
   display: block;
+  margin-top: :5%;
+  margin-left: 15%;
+
 }
 
 .row{
@@ -45,7 +51,7 @@ border-radius: 16px;
   border-color: blue!important;
   color: blue!important;
    background-image:url('motion.gif')!important;
-  width: 120px;
+  width: 95px;
   height: 45px;
 }
  .button1:hover{
@@ -59,7 +65,7 @@ border-radius: 16px;
   border-color: blue!important;
   color: blue!important;
    background-image:url('motion.gif')!important;
-  width: 120px;
+  width: 95px;
   height: 45px;
 }
 .button2:hover{
