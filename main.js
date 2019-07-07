@@ -4,7 +4,7 @@ SC.initialize({
 
 
 $(document).ready(function() {
-  SC.stream('/tracks/334781255',function(sound){
+  SC.stream('/tracks/472775877',function(sound){
 
        $("#start1").click(function(e) {
               e.preventDefault();
@@ -20,7 +20,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  SC.stream('/tracks/233953691',function(sound){
+  SC.stream('/tracks/248457641',function(sound){
 
        $("#start2").click(function(e) {
               e.preventDefault();
@@ -36,7 +36,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  SC.stream(' /tracks/33048683',function(sound){
+  SC.stream(' /tracks/31643626',function(sound){
 
        $("#start3").click(function(e) {
               e.preventDefault();
@@ -52,7 +52,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  SC.stream('/tracks/62896355',function(sound){
+  SC.stream('/tracks/177844706',function(sound){
 
        $("#start4").click(function(e) {
               e.preventDefault();
@@ -84,7 +84,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  SC.stream('/tracks/134916402',function(sound){
+  SC.stream('/tracks/456555204',function(sound){
 
        $("#start6").click(function(e) {
               e.preventDefault();
@@ -100,7 +100,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  SC.stream('/tracks/347092095',function(sound){
+  SC.stream('/tracks/333329462',function(sound){
 
        $("#start7").click(function(e) {
               e.preventDefault();
@@ -116,7 +116,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  SC.stream('/tracks/347092095',function(sound){
+  SC.stream('/tracks/333329462',function(sound){
 
        $("#start8").click(function(e) {
               e.preventDefault();
@@ -164,7 +164,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  SC.stream('/tracks/177169087',function(sound){
+  SC.stream('/tracks/464227806',function(sound){
 
        $("#start11").click(function(e) {
               e.preventDefault();
@@ -180,7 +180,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  SC.stream('/tracks/177169087',function(sound){
+  SC.stream('/tracks/464227806',function(sound){
 
        $("#start12").click(function(e) {
               e.preventDefault();
