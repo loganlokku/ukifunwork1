@@ -4,15 +4,15 @@ SC.initialize({
 
 
 $(document).ready(function() {
-  SC.stream('/tracks/62996783',function(sound){
+  SC.stream('/tracks/334781255',function(sound){
 
-       $("#start").click(function(e) {
+       $("#start1").click(function(e) {
               e.preventDefault();
               sound.start();
              });
 
 
-              $("#stop").click(function(e) {
+              $("#stop1").click(function(e) {
                  e.preventDefault();
                  sound.stop();
                });
@@ -20,7 +20,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  SC.stream('/tracks/62996781',function(sound){
+  SC.stream('/tracks/233953691',function(sound){
 
        $("#start2").click(function(e) {
               e.preventDefault();
@@ -36,7 +36,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  SC.stream('/tracks/62899723',function(sound){
+  SC.stream(' /tracks/33048683',function(sound){
 
        $("#start3").click(function(e) {
               e.preventDefault();
@@ -61,6 +61,134 @@ $(document).ready(function() {
 
 
               $("#stop4").click(function(e) {
+                 e.preventDefault();
+                 sound.stop();
+               });
+});
+});
+
+$(document).ready(function() {
+  SC.stream('/tracks/212104562',function(sound){
+
+       $("#start5").click(function(e) {
+              e.preventDefault();
+              sound.start();
+             });
+
+
+              $("#stop5").click(function(e) {
+                 e.preventDefault();
+                 sound.stop();
+               });
+});
+});
+
+$(document).ready(function() {
+  SC.stream('/tracks/134916402',function(sound){
+
+       $("#start6").click(function(e) {
+              e.preventDefault();
+              sound.start();
+             });
+
+
+              $("#stop6").click(function(e) {
+                 e.preventDefault();
+                 sound.stop();
+               });
+});
+});
+
+$(document).ready(function() {
+  SC.stream('/tracks/347092095',function(sound){
+
+       $("#start7").click(function(e) {
+              e.preventDefault();
+              sound.start();
+             });
+
+
+              $("#stop7").click(function(e) {
+                 e.preventDefault();
+                 sound.stop();
+               });
+});
+});
+
+$(document).ready(function() {
+  SC.stream('/tracks/347092095',function(sound){
+
+       $("#start8").click(function(e) {
+              e.preventDefault();
+              sound.start();
+             });
+
+
+              $("#stop8").click(function(e) {
+                 e.preventDefault();
+                 sound.stop();
+               });
+});
+});
+
+$(document).ready(function() {
+  SC.stream('/tracks/190381784',function(sound){
+
+       $("#start9").click(function(e) {
+              e.preventDefault();
+              sound.start();
+             });
+
+
+              $("#stop9").click(function(e) {
+                 e.preventDefault();
+                 sound.stop();
+               });
+});
+});
+
+$(document).ready(function() {
+  SC.stream('/tracks/425892798',function(sound){
+
+       $("#start10").click(function(e) {
+              e.preventDefault();
+              sound.start();
+             });
+
+
+              $("#stop10").click(function(e) {
+                 e.preventDefault();
+                 sound.stop();
+               });
+});
+});
+
+$(document).ready(function() {
+  SC.stream('/tracks/177169087',function(sound){
+
+       $("#start11").click(function(e) {
+              e.preventDefault();
+              sound.start();
+             });
+
+
+              $("#stop11").click(function(e) {
+                 e.preventDefault();
+                 sound.stop();
+               });
+});
+});
+
+$(document).ready(function() {
+  SC.stream('/tracks/177169087',function(sound){
+
+       $("#start12").click(function(e) {
+              e.preventDefault();
+              sound.start();
+             });
+
+
+              $("#stop12").click(function(e) {
                  e.preventDefault();
                  sound.stop();
                });

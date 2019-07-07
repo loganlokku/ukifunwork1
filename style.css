@@ -1,3 +1,29 @@
+.head{
+  margin-top: -1%;
+  width: 100%;
+  height: 100px;;
+  background-color: black;
+}
+
+
+.div2{
+  margin: 5%;
+}
+.div2 img{
+  width: 250px;
+  height: 350px;
+  border-radius: 8px;
+}
+img .responsive{
+  width: 100%;
+  height: auto;
+}
+
+.div1{
+  position: absolute;
+  display: block;
+}
+
 .row{
   list-style-type: none;
 display: inline-flex;
@@ -15,11 +41,36 @@ height: 350px;
 border-radius: 16px;
 }
 
-.row button{
-
+ .button1{
+  border-color: blue!important;
+  color: blue!important;
+   background-image:url('motion.gif')!important;
+  width: 120px;
+  height: 45px;
+}
+ .button1:hover{
+  text-decoration: none;
+  border-color: black!important;
+  color: black!important;
+  background-color: green!important;
 }
 
-.responsive{
+.button2{
+  border-color: blue!important;
+  color: blue!important;
+   background-image:url('motion.gif')!important;
+  width: 120px;
+  height: 45px;
+}
+.button2:hover{
+  text-decoration: none;
+  background-color:red!important;
+  border-color: black!important;
+  color: black!important;
+}
+
+
+.row .responsive{
 width:100%;
 height:auto;
 }
